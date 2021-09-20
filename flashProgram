@@ -1,0 +1,13 @@
+# Name: flashProgram
+# Description - Flashes the image onto the STM32f4
+if [ -e "$1" ]
+then
+  echo "Found file $1"
+  echo "Flashing the device using openocd"
+  openocd -f interface/olimex-arm-usb-tiny-h.cfg -f target/stm32f4x.cfg -c "init" -c "targets" -c "reset" -c "halt" -c "flash write_image erase $1"  -c "verify_image $1" -c "reset run" -c "shutdown"
+else
+  echo "$1: No such file or directory found"
+  echo "This program is called: ./flashProgram fileName"
+fi
+
+

@@ -1,0 +1,3 @@
+SysTickTimer.cpp:15:1:SysTickTimer::~SysTickTimer()	0	static
+SysTickTimer.cpp:15:1:virtual SysTickTimer::~SysTickTimer()	8	static
+SysTickTimer.cpp:10:1:SysTickTimer::SysTickTimer()	0	static

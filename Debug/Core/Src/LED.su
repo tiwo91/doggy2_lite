@@ -1,0 +1,9 @@
+LED.cpp:10:1:LED::LED()	56	static
+LED.cpp:32:1:LED::~LED()	16	static
+LED.cpp:32:1:virtual LED::~LED()	16	static
+LED.cpp:37:6:void LED::led_on(uint16_t)	16	static
+LED.cpp:41:6:void LED::led_off(uint16_t)	16	static
+LED.cpp:45:6:void LED::led_toggle(uint16_t)	16	static
+LED.cpp:56:1:void __static_initialization_and_destruction_0(int, int)	16	static
+LED.cpp:56:1:cpp)	8	static
+LED.cpp:56:1:cpp)	8	static

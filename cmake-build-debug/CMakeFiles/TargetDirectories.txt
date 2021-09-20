@@ -1,0 +1,3 @@
+/home/tiwo/Documents/Master_project/doggy2_lite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tiwo/Documents/Master_project/doggy2_lite/cmake-build-debug/CMakeFiles/doggy2_lite.elf.dir
+/home/tiwo/Documents/Master_project/doggy2_lite/cmake-build-debug/CMakeFiles/edit_cache.dir

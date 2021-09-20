@@ -1,0 +1,8 @@
+Motor.cpp:10:1:Motor::Motor()	64	static
+Motor.cpp:88:1:Motor::~Motor()	16	static
+Motor.cpp:88:1:virtual Motor::~Motor()	16	static
+Motor.cpp:92:6:void Motor::initMotor()	16	static
+Motor.cpp:102:6:bool Motor::getZeroSw()	16	static
+Motor.cpp:108:1:void __static_initialization_and_destruction_0(int, int)	16	static
+Motor.cpp:108:1:cpp)	8	static
+Motor.cpp:108:1:cpp)	8	static
